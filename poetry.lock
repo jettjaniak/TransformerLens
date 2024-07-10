@@ -365,7 +365,7 @@ files = [
 name = "beartype"
 version = "0.14.1"
 description = "Unbearably fast runtime type checking in pure Python."
-optional = false
+optional = true
 python-versions = ">=3.7.0"
 files = [
     {file = "beartype-0.14.1-py3-none-any.whl", hash = "sha256:0f70fccdb8eb6d7ddfaa3ffe3a0b66cf2edeb13452bd71ad46615775c2fa34f6"},

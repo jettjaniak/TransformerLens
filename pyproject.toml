@@ -6,7 +6,7 @@
     packages=[{include="transformer_lens"}]
     readme="README.md"
     # Version is automatically set by the pipeline on release
-    version="2.2.0"
+    version="2.2.0_15-07-2024"
 
     [tool.poetry.scripts]
         build-docs="docs.make_docs:build_docs"
